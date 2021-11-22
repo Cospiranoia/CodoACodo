@@ -1,0 +1,41 @@
+/* Navbar */
+#comprarTickets{
+    color: rgb(61, 175, 32) !important;
+}
+#comprarTickets:hover{
+    color: white !important;
+}
+/* Card estudiantes */
+#cardEstudiantes{
+    border-color: #007bff;
+}
+#cardTrainee{
+    border-color: #17a2b8;
+}
+#cardJunior{
+    border-color: #ffc107;
+}
+/* Formulario/*
+
+
+
+/* Footer */
+footer{
+    background: linear-gradient(to right, #1c3643, #1e5372);
+    width: 100%;
+    padding: 50px 0px;
+    margin-top: 3em;
+}
+footer .container__footer{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+}
+.link{
+    color: white;
+    text-decoration: none;
+}
+.link:hover{
+    color: #29a744;
+}
